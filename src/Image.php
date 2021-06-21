@@ -78,21 +78,21 @@ class Image extends AbstractWord
      *
      * @var int
      */
-    protected $width = 200;
+    protected $width = 300;
 
     /**
      * Image height
      *
      * @var int
      */
-    protected $height = 50;
+    protected $height = 100;
 
     /**
      * Font size
      *
      * @var int
      */
-    protected $fsize = 24;
+    protected $fsize = 30;
 
     /**
      * Image font file
@@ -129,7 +129,7 @@ class Image extends AbstractWord
      *
      * @var int
      */
-    protected $dotNoiseLevel = 100;
+    protected $dotNoiseLevel = 30;
 
     /**
      * Number of noise lines on image
